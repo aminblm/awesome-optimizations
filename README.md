@@ -1,4 +1,4 @@
-# awesome-optimizations
+![Dynamic-Leg-Swing](https://github.com/user-attachments/assets/562160e2-c921-4823-8ca0-788d5dc0e6a1)# awesome-optimizations
 
 A curated list of the best findings in life and business. For each problem set, only one solution: The best overall.
 
@@ -54,51 +54,63 @@ Here’s the best **dynamic** stretch for each functional result:
 
 1. **Flexibility**: Dynamic Leg Swings
 
-![image](https://github.com/user-attachments/assets/af4f9005-de16-4cc1-81dc-62e9f4530ca0)
+![Dynamic-Leg-Swing](https://github.com/user-attachments/assets/997f66e8-4af8-4d54-90f2-97f5bf5fce01)
+
+_Source: [POPSUGAR](https://www.popsugar.co.uk/fitness/20-minute-full-body-mobility-workout-48150069?utm_medium=redirect&utm_campaign=US:FR&utm_source=direct)_
 
 2. **Mobility**: World's Greatest Stretch with Rotation  
 
-![image](https://github.com/user-attachments/assets/b913cf77-4d91-4f21-bc73-bce980adc795)
+![AF_Flex-and-Mobility_WorldsGreatestStretch](https://github.com/user-attachments/assets/3682b564-c571-4661-b299-bf2fffc10cc2)
+
+_Source: [Anytime Fitness](https://www.anytimefitness.com/ccc/coach/get-flexy-with-it-6-flexibility-exercises-for-better-workout-results/)_
 
 3. **Posture Improvement**: Arm Circles  
 
-![image](https://github.com/user-attachments/assets/c9fbc7b4-9283-44ca-88ed-b4efabdb6124)
+![big-arm-circles-exercise-illustration](https://github.com/user-attachments/assets/0320b3d4-823c-4c3c-8a39-3a634af68332)
 
+_Source: [SPOTEBI](https://www.spotebi.com/exercise-guide/big-arm-circles/)_
 
 4. **Lower Back Pain Relief**: Cat-Cow (Dynamic)  
 
-![image](https://github.com/user-attachments/assets/91c7b484-ba7d-4e90-996b-450c88885c03)
+![anim-cat-cow-pose](https://github.com/user-attachments/assets/408a2217-7e72-4319-9f78-bb1dd733612e)
 
+_Source: [Home Workouts](https://homeworkouts.org/exercise/cat-cow-pose/)_
 
 5. **Hip Opener**: Lunge with Spinal Twist  
 
-![image](https://github.com/user-attachments/assets/ba814c64-a903-4b17-a1a7-4455a7a606ef)
+![Lunge+with+twist+exercise](https://github.com/user-attachments/assets/4b6d2494-5a1a-47e9-953a-cb38d0d9ec44)
 
+_Source: [Your House Fitness](https://www.yourhousefitness.com/blog/the-lunge-with-twist)_
 
 6. **Shoulder Flexibility**: Shoulder Rolls  
 
-![image](https://github.com/user-attachments/assets/5fb8704d-b38c-47bc-8f72-d8c64b0c047c)
+![Lunge+with+twist+exercise](https://github.com/user-attachments/assets/4acdb98f-5784-4b8a-9631-4bf31f5eba8a)
 
+_Source: [MIT Recreation](https://www.mitrecsports.com/wellness/8-stretches-study-break/attachment/shoulder-roll/)_
 
 7. **Hamstring Flexibility**: Dynamic Toe Touches  
 
-![image](https://github.com/user-attachments/assets/3d9b73f5-4753-4636-85f9-3496171e0e0a)
+![STANDING_TOE_TOUCH](https://github.com/user-attachments/assets/6dffee8c-3a28-4510-9de8-c48b3ec48716)
 
+_Source: [Self.com](https://www.self.com/story/the-standing-abs-move-you-should-do-before-every-workout)_
 
 8. **Spinal Decompression**: Standing Forward Fold to Reach Up  
 
-![image](https://github.com/user-attachments/assets/ea7542ad-2568-49ce-aa4c-79a5fb5a693c)
+![5674](https://github.com/user-attachments/assets/606c0622-fb4f-4ef8-a3b5-2c7ed7c1a135)
 
+_Source: [Gym Visuals](https://gymvisual.com/animated-gifs/2433-standing-forward-bend-uttanasana.html)_
 
 9. **Ankle Mobility**: Ankle Circles in Deep Squat  
 
-![image](https://github.com/user-attachments/assets/41ff40f1-999c-434f-8ddb-c6fe6669cc12)
-![image](https://github.com/user-attachments/assets/0a8385ca-c905-420c-9f9a-c2fd717aed18)
+![z3tZQ_](https://github.com/user-attachments/assets/25981a11-9c70-4523-a140-3a7c3a6aa888)
 
+_Source: [Make a GIF](https://makeagif.com/gif/ankle-circles-to-improve-ankle-mobility-z3tZQ_)_
 
 10. **Neck Tension Relief**: Dynamic Neck Tilts (Side to Side)
 
-<iframe src="https://giphy.com/embed/S0TRbfhlZT3GUCMMBO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MidtownYoga-yoga-midtown-office-S0TRbfhlZT3GUCMMBO">via GIPHY</a></p>
+![Verywell-1-3567200-NeckRoll0-1379-18752657beb34ef5a04be8171a8d9dac](https://github.com/user-attachments/assets/4f033e00-1829-4735-96c0-ecda81bed1c1)
+
+_Source: [Vanessa Varin](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vanessavarin.com/blog/2021/7/26/stretches-curated-for-designers-amp-engineers&ved=2ahUKEwj1hc2thduJAxWwTKQEHcIULYIQh-wKegQITxAD&usg=AOvVaw2iMIkrimXI8_nZ3x8s1Lse)_
 
 Here’s the best **static** stretch for each functional result:
 
