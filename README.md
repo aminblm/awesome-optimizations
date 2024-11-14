@@ -2,6 +2,22 @@
 
 A curated list of the best findings in life and business. For each problem set, only one solution: The best overall.
 
+Here's a table of contents for your document:
+
+---
+
+# Table of Contents
+
+1. [Body](#body)
+   - [Exercises](#exercises)
+   - [Stretching](#stretching)
+     - [Muscles](#muscles)
+     - [Functional Results](#functional-results)
+       - [Dynamic Stretching for Functional Results](#dynamic-stretching-for-functional-results)
+       - [Static Stretching for Functional Results](#static-stretching-for-functional-results)
+
+---
+
 ## Body
 
 ### Exercises
@@ -26,6 +42,7 @@ _Source: [Pinterest](https://www.google.com/url?sa=t&source=web&rct=j&opi=899784
 
 ### Stretching
 
+#### Muscles
 Here’s the best **bodyweight** stretch for each **major muscle** group:
 
 1. **Chest**: Doorway Stretch (or Corner Stretch using a wall)  
@@ -39,6 +56,8 @@ Here’s the best **bodyweight** stretch for each **major muscle** group:
 9. **Hamstrings**: Seated Forward Fold  
 10. **Calves**: Downward Dog with Heel Push
 
+#### Functional Results
+
 Here’s the best **bodyweight** stretch for each **functional** result:
 
 1. **Flexibility**: Seated Forward Fold  
@@ -51,6 +70,8 @@ Here’s the best **bodyweight** stretch for each **functional** result:
 8. **Spinal Decompression**: Hanging Forward Fold  
 9. **Ankle Mobility**: Deep Squat Hold  
 10. **Neck Tension Relief**: Upper Trap Stretch
+
+##### Dynamic Stretching for Functional results
 
 Here’s the best **dynamic** stretch for each functional result:
 
@@ -113,6 +134,8 @@ _Source: [Make a GIF](https://makeagif.com/gif/ankle-circles-to-improve-ankle-mo
 ![Verywell-1-3567200-NeckRoll0-1379-18752657beb34ef5a04be8171a8d9dac](https://github.com/user-attachments/assets/4f033e00-1829-4735-96c0-ecda81bed1c1)
 
 _Source: [Vanessa Varin](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vanessavarin.com/blog/2021/7/26/stretches-curated-for-designers-amp-engineers&ved=2ahUKEwj1hc2thduJAxWwTKQEHcIULYIQh-wKegQITxAD&usg=AOvVaw2iMIkrimXI8_nZ3x8s1Lse)_
+
+##### Static stretching for Functional results
 
 Here’s the best **static** stretch for each functional result:
 
