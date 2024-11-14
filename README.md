@@ -1,4 +1,4 @@
-![Dynamic-Leg-Swing](https://github.com/user-attachments/assets/562160e2-c921-4823-8ca0-788d5dc0e6a1)# awesome-optimizations
+# awesome-optimizations
 
 A curated list of the best findings in life and business. For each problem set, only one solution: The best overall.
 
