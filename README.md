@@ -1,4 +1,4 @@
-# awesome-optimizations
+![image](https://github.com/user-attachments/assets/af4f9005-de16-4cc1-81dc-62e9f4530ca0)# awesome-optimizations
 
 A curated list of the best findings in life and business. For each problem set, only one solution: The best overall.
 
@@ -52,16 +52,17 @@ Here’s the best **bodyweight** stretch for each **functional** result:
 
 Here’s the best **dynamic** stretch for each functional result:
 
-1. **Flexibility**: Dynamic Leg Swings  
-2. **Mobility**: World's Greatest Stretch with Rotation  
-3. **Posture Improvement**: Arm Circles  
-4. **Lower Back Pain Relief**: Cat-Cow (Dynamic)  
-5. **Hip Opener**: Lunge with Spinal Twist  
-6. **Shoulder Flexibility**: Shoulder Rolls  
-7. **Hamstring Flexibility**: Dynamic Toe Touches  
-8. **Spinal Decompression**: Standing Forward Fold to Reach Up  
-9. **Ankle Mobility**: Ankle Circles in Deep Squat  
-10. **Neck Tension Relief**: Dynamic Neck Tilts (Side to Side)
+1. **Flexibility**: Dynamic Leg Swings
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdynamic-stretches&psig=AOvVaw0_kxKghmIUkKVjJv14UfRJ&ust=1731644794069000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDAotr92okDFQAAAAAdAAAAABAE)
+3. **Mobility**: World's Greatest Stretch with Rotation  
+4. **Posture Improvement**: Arm Circles  
+5. **Lower Back Pain Relief**: Cat-Cow (Dynamic)  
+6. **Hip Opener**: Lunge with Spinal Twist  
+7. **Shoulder Flexibility**: Shoulder Rolls  
+8. **Hamstring Flexibility**: Dynamic Toe Touches  
+9. **Spinal Decompression**: Standing Forward Fold to Reach Up  
+10. **Ankle Mobility**: Ankle Circles in Deep Squat  
+11. **Neck Tension Relief**: Dynamic Neck Tilts (Side to Side)
 
 Here’s the best **static** stretch for each functional result:
 
