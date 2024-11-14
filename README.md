@@ -98,7 +98,7 @@ Here’s the best **dynamic** stretch for each functional result:
 
 10. **Neck Tension Relief**: Dynamic Neck Tilts (Side to Side)
 
-![image](https://github.com/user-attachments/assets/570feaa6-90c3-48c1-8c1d-3005c4ac0a15)
+<iframe src="https://giphy.com/embed/S0TRbfhlZT3GUCMMBO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MidtownYoga-yoga-midtown-office-S0TRbfhlZT3GUCMMBO">via GIPHY</a></p>
 
 Here’s the best **static** stretch for each functional result:
 
