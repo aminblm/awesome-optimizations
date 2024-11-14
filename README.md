@@ -53,16 +53,52 @@ Here’s the best **bodyweight** stretch for each **functional** result:
 Here’s the best **dynamic** stretch for each functional result:
 
 1. **Flexibility**: Dynamic Leg Swings
+
 ![image](https://github.com/user-attachments/assets/af4f9005-de16-4cc1-81dc-62e9f4530ca0)
+
 2. **Mobility**: World's Greatest Stretch with Rotation  
+
+![image](https://github.com/user-attachments/assets/b913cf77-4d91-4f21-bc73-bce980adc795)
+
 3. **Posture Improvement**: Arm Circles  
+
+![image](https://github.com/user-attachments/assets/c9fbc7b4-9283-44ca-88ed-b4efabdb6124)
+
+
 4. **Lower Back Pain Relief**: Cat-Cow (Dynamic)  
+
+![image](https://github.com/user-attachments/assets/91c7b484-ba7d-4e90-996b-450c88885c03)
+
+
 5. **Hip Opener**: Lunge with Spinal Twist  
+
+![image](https://github.com/user-attachments/assets/ba814c64-a903-4b17-a1a7-4455a7a606ef)
+
+
 6. **Shoulder Flexibility**: Shoulder Rolls  
+
+![image](https://github.com/user-attachments/assets/5fb8704d-b38c-47bc-8f72-d8c64b0c047c)
+
+
 7. **Hamstring Flexibility**: Dynamic Toe Touches  
+
+![image](https://github.com/user-attachments/assets/3d9b73f5-4753-4636-85f9-3496171e0e0a)
+
+
 8. **Spinal Decompression**: Standing Forward Fold to Reach Up  
+
+![image](https://github.com/user-attachments/assets/ea7542ad-2568-49ce-aa4c-79a5fb5a693c)
+
+
 9. **Ankle Mobility**: Ankle Circles in Deep Squat  
+
+![image](https://github.com/user-attachments/assets/41ff40f1-999c-434f-8ddb-c6fe6669cc12)
+![image](https://github.com/user-attachments/assets/0a8385ca-c905-420c-9f9a-c2fd717aed18)
+
+
 10. **Neck Tension Relief**: Dynamic Neck Tilts (Side to Side)
+
+![image](https://github.com/user-attachments/assets/570feaa6-90c3-48c1-8c1d-3005c4ac0a15)
 
 Here’s the best **static** stretch for each functional result:
 
