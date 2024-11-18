@@ -140,6 +140,11 @@ _Source: [Vanessa Varin](https://www.google.com/url?sa=t&source=web&rct=j&opi=89
 Here’s the best **static** stretch for each functional result:
 
 1. **Flexibility**: Seated Forward Fold  
+
+![image](https://github.com/user-attachments/assets/c916efd5-d6b6-4b27-9870-56a4eb9681fa)
+
+_Source: [RosaliYoga](https://www.youtube.com/@RosalieYoga)_
+
 2. **Mobility**: Butterfly Stretch  
 3. **Posture Improvement**: Chest Stretch (Arms Behind)  
 4. **Lower Back Pain Relief**: Child’s Pose  
