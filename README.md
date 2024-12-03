@@ -22,6 +22,19 @@ Here's a table of contents for your document:
 
 ### Exercises
 
+This is a list the **top 10 bodyweight exercises** for building explosive and absolute strength:  
+
+1. **Plyometric Push-Ups** – Develop explosive upper-body power.  
+2. **Pistol Squats** – Build unilateral leg strength and stability.  
+3. **Pull-Ups/Chin-Ups** – Strengthen upper-body pulling muscles and grip.  
+4. **Handstand Push-Ups** – Enhance shoulder and core strength.  
+5. **Broad Jumps** – Improve lower-body power and explosiveness.  
+6. **Muscle-Ups** – Combine pull and push strength explosively.  
+7. **Clapping Dips** – Train triceps explosiveness and pushing power.  
+8. **Dragon Flags** – Develop core strength and control.  
+9. **Single-Leg Romanian Deadlifts** – Build balance, stability, and hamstring strength.  
+10. **Burpee Broad Jumps** – Combine cardiovascular conditioning with explosive power.  
+
 This is a list of the best **bodyweight** exercise for each major muscle group:
 
 1. **Chest**: Push-Ups
