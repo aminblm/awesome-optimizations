@@ -24,11 +24,9 @@ Here's a table of contents for your document:
 
 This is a list the **top 10 bodyweight exercises** for building explosive and absolute strength:  
 
-1. **Plyometric Push-Ups** – Develop explosive upper-body power.
-
-<img src="https://hips.hearstapps.com/hmg-prod/images/workouts/2017/04/clappushup-1491917647.gif" alt="Workout" width="300">
-
-_Source: [Men's Health](https://www.menshealth.com/fitness/a19546623/plyometric-core-workout/)_
+| Header 1   | Header 2   | Header 3   |
+|------------|------------|------------|
+| 1. **Plyometric Push-Ups** – Develop explosive upper-body power | <img src="https://hips.hearstapps.com/hmg-prod/images/workouts/2017/04/clappushup-1491917647.gif" alt="Workout" width="300"> | _Source: [Men's Health](https://www.menshealth.com/fitness/a19546623/plyometric-core-workout/)_ |
 
 2. **Pistol Squats** – Build unilateral leg strength and stability.
 
