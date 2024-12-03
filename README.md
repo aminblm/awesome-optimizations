@@ -70,10 +70,11 @@ Here’s the best **bodyweight** stretch for each **functional** result:
 8. **Spinal Decompression**: Hanging Forward Fold  
 9. **Ankle Mobility**: Deep Squat Hold  
 10. **Neck Tension Relief**: Upper Trap Stretch
+11. **Height augmetation**: Hanging from a bar
 
 ##### Dynamic Stretching for Functional results
 
-Here’s the best **dynamic** stretch for each functional result:
+The best **dynamic** stretch for each functional result:
 
 1. **Flexibility**: Dynamic Leg Swings
 
