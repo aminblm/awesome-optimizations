@@ -24,16 +24,21 @@ Here's a table of contents for your document:
 
 This is a list the **top 10 bodyweight exercises** for building explosive and absolute strength:  
 
-1. **Plyometric Push-Ups** – Develop explosive upper-body power.  
-2. **Pistol Squats** – Build unilateral leg strength and stability.  
-3. **Pull-Ups/Chin-Ups** – Strengthen upper-body pulling muscles and grip.  
-4. **Handstand Push-Ups** – Enhance shoulder and core strength.  
-5. **Broad Jumps** – Improve lower-body power and explosiveness.  
-6. **Muscle-Ups** – Combine pull and push strength explosively.  
-7. **Clapping Dips** – Train triceps explosiveness and pushing power.  
-8. **Dragon Flags** – Develop core strength and control.  
-9. **Single-Leg Romanian Deadlifts** – Build balance, stability, and hamstring strength.  
-10. **Burpee Broad Jumps** – Combine cardiovascular conditioning with explosive power.  
+1. **Plyometric Push-Ups** – Develop explosive upper-body power.
+
+![](https://hips.hearstapps.com/hmg-prod/images/workouts/2017/04/clappushup-1491917647.gif)
+
+_Source: [Men's Health](https://www.menshealth.com/fitness/a19546623/plyometric-core-workout/)_
+
+3. **Pistol Squats** – Build unilateral leg strength and stability.  
+4. **Pull-Ups/Chin-Ups** – Strengthen upper-body pulling muscles and grip.  
+5. **Handstand Push-Ups** – Enhance shoulder and core strength.  
+6. **Broad Jumps** – Improve lower-body power and explosiveness.  
+7. **Muscle-Ups** – Combine pull and push strength explosively.  
+8. **Clapping Dips** – Train triceps explosiveness and pushing power.  
+9. **Dragon Flags** – Develop core strength and control.  
+10. **Single-Leg Romanian Deadlifts** – Build balance, stability, and hamstring strength.  
+11. **Burpee Broad Jumps** – Combine cardiovascular conditioning with explosive power.  
 
 This is a list of the best **bodyweight** exercise for each major muscle group:
 
