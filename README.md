@@ -90,47 +90,199 @@ This is a list of the best **bodyweight** exercise for each major muscle group:
 
 _Source: [Pinterest](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ar.pinterest.com/pin/796503884093068134/&ved=2ahUKEwjvq9HjhduJAxWgRaQEHQveNs8Qh-wKegQIZRAD&usg=AOvVaw1mBe8d1Tz-Oeu3CSVhjYPo)_
 
-2. **Back**: Reverse Snow Angels  
-3. **Shoulders**: Pike Push-Ups  
-4. **Biceps**: Chin-Up Hold (on a sturdy surface like a doorframe edge or table)  
-5. **Triceps**: Diamond Push-Ups  
-6. **Core**: Plank  
-7. **Glutes**: Glute Bridge  
-8. **Quads**: Wall Sit  
-9. **Hamstrings**: Single-Leg Glute Bridge  
+2. **Back**: Reverse Snow Angels
+
+![]()
+
+_Source: []()_
+
+3. **Shoulders**: Pike Push-Ups
+
+![]()
+
+_Source: []()_
+
+4. **Biceps**: Chin-Up Hold (on a sturdy surface like a doorframe edge or table)
+
+![]()
+
+_Source: []()_
+
+5. **Triceps**: Diamond Push-Ups
+
+![]()
+
+_Source: []()_
+
+6. **Core**: Plank
+
+
+![]()
+
+_Source: []()_
+
+7. **Glutes**: Glute Bridge
+
+
+![]()
+
+_Source: []()_
+
+8. **Quads**: Wall Sit
+
+![]()
+
+_Source: []()_
+
+9. **Hamstrings**: Single-Leg Glute Bridge
+
+
+![]()
+
+_Source: []()_
+
 10. **Calves**: Calf Raises
+
+![]()
+
+_Source: []()_
 
 ### Stretching
 
 #### Muscles
 Here’s the best **bodyweight** stretch for each **major muscle** group:
 
-1. **Chest**: Doorway Stretch (or Corner Stretch using a wall)  
-2. **Back**: Child’s Pose  
-3. **Shoulders**: Cross-Body Shoulder Stretch  
-4. **Biceps**: Seated Arm Extension Stretch (hands behind, fingers pointing away)  
-5. **Triceps**: Overhead Triceps Stretch  
-6. **Core**: Cobra Stretch  
-7. **Glutes**: Pigeon Pose  
-8. **Quads**: Standing Quad Stretch  
-9. **Hamstrings**: Seated Forward Fold  
+1. **Chest**: Doorway Stretch (or Corner Stretch using a wall)
+
+![]()
+
+_Source: []()_
+
+2. **Back**: Child’s Pose
+
+
+![]()
+
+_Source: []()_
+
+3. **Shoulders**: Cross-Body Shoulder Stretch
+
+![]()
+
+_Source: []()_
+
+4. **Biceps**: Seated Arm Extension Stretch (hands behind, fingers pointing away)
+
+![]()
+
+_Source: []()_
+
+5. **Triceps**: Overhead Triceps Stretch
+
+![]()
+
+_Source: []()_
+
+6. **Core**: Cobra Stretch
+
+![]()
+
+_Source: []()_
+
+7. **Glutes**: Pigeon Pose
+
+![]()
+
+_Source: []()_
+
+8. **Quads**: Standing Quad Stretch
+
+![]()
+
+_Source: []()_
+
+9. **Hamstrings**: Seated Forward Fold
+
+![]()
+
+_Source: []()_
+
 10. **Calves**: Downward Dog with Heel Push
+
+![]()
+
+_Source: []()_
+
 
 #### Functional Results
 
 Here’s the best **bodyweight** stretch for each **functional** result:
 
-1. **Flexibility**: Seated Forward Fold  
-2. **Mobility**: World's Greatest Stretch  
-3. **Posture Improvement**: Cat-Cow Stretch  
-4. **Lower Back Pain Relief**: Child’s Pose  
-5. **Hip Opener**: Pigeon Pose  
-6. **Shoulder Flexibility**: Thread the Needle Stretch  
-7. **Hamstring Flexibility**: Standing Forward Fold  
-8. **Spinal Decompression**: Hanging Forward Fold  
-9. **Ankle Mobility**: Deep Squat Hold  
+1. **Flexibility**: Seated Forward Fold
+
+![]()
+
+_Source: []()_
+
+2. **Mobility**: World's Greatest Stretch
+
+![]()
+
+_Source: []()_
+
+3. **Posture Improvement**: Cat-Cow Stretch
+
+![]()
+
+_Source: []()_
+
+4. **Lower Back Pain Relief**: Child’s Pose
+
+![]()
+
+_Source: []()_
+
+5. **Hip Opener**: Pigeon Pose
+
+![]()
+
+_Source: []()_
+
+6. **Shoulder Flexibility**: Thread the Needle Stretch
+
+![]()
+
+_Source: []()_
+
+7. **Hamstring Flexibility**: Standing Forward Fold
+
+![]()
+
+_Source: []()_
+
+8. **Spinal Decompression**: Hanging Forward Fold
+
+![]()
+
+_Source: []()_
+
+9. **Ankle Mobility**: Deep Squat Hold
+
+![]()
+
+_Source: []()_
+
 10. **Neck Tension Relief**: Upper Trap Stretch
+
+![]()
+
+_Source: []()_
+
 11. **Height augmetation**: Hanging from a bar
+
+![]()
+
+_Source: []()_
 
 ##### Dynamic Stretching for Functional results
 
@@ -206,12 +358,61 @@ Here’s the best **static** stretch for each functional result:
 
 _Source: [RosaliYoga](https://www.youtube.com/@RosalieYoga)_
 
-2. **Mobility**: Butterfly Stretch  
-3. **Posture Improvement**: Chest Stretch (Arms Behind)  
-4. **Lower Back Pain Relief**: Child’s Pose  
-5. **Hip Opener**: Pigeon Pose  
-6. **Shoulder Flexibility**: Cross-Body Shoulder Stretch  
-7. **Hamstring Flexibility**: Standing Hamstring Stretch  
-8. **Spinal Decompression**: Seated Spinal Twist  
-9. **Ankle Mobility**: Standing Calf Stretch  
+2. **Mobility**: Butterfly Stretch
+
+![]()
+
+_Source: []()_
+
+3. **Posture Improvement**: Chest Stretch (Arms Behind)
+
+
+![]()
+
+_Source: []()_
+
+4. **Lower Back Pain Relief**: Child’s Pose
+
+![]()
+
+_Source: []()_
+
+5. **Hip Opener**: Pigeon Pose
+
+
+![]()
+
+_Source: []()_
+
+6. **Shoulder Flexibility**: Cross-Body Shoulder Stretch
+
+
+![]()
+
+_Source: []()_
+
+7. **Hamstring Flexibility**: Standing Hamstring Stretch
+
+
+![]()
+
+_Source: []()_
+
+8. **Spinal Decompression**: Seated Spinal Twist
+
+![]()
+
+_Source: []()_
+
+9. **Ankle Mobility**: Standing Calf Stretch
+
+![]()
+
+_Source: []()_
+
 10. **Neck Tension Relief**: Neck Stretch (Ear to Shoulder)
+
+![]()
+
+_Source: []()_
+
