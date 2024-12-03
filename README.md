@@ -28,7 +28,7 @@ This is a list the **top 10 bodyweight exercises** for building explosive and ab
 
 ![](https://hips.hearstapps.com/hmg-prod/images/workouts/2017/04/clappushup-1491917647.gif)
 
-<img src="https://hips.hearstapps.com/hmg-prod/images/workouts/2017/04/clappushup-1491917647.gif" alt="Description" width="500">
+<img src="https://hips.hearstapps.com/hmg-prod/images/workouts/2017/04/clappushup-1491917647.gif" alt="Description" width="300">
 
 
 _Source: [Men's Health](https://www.menshealth.com/fitness/a19546623/plyometric-core-workout/)_
