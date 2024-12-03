@@ -8,13 +8,15 @@ Here's a table of contents for your document:
 
 # Table of Contents
 
-1. [Body](#body)
-   - [Exercises](#exercises)
-   - [Stretching](#stretching)
-     - [Muscles](#muscles)
-     - [Functional Results](#functional-results)
-       - [Dynamic Stretching for Functional Results](#dynamic-stretching-for-functional-results)
-       - [Static Stretching for Functional Results](#static-stretching-for-functional-results)
+- [awesome-optimizations](#awesome-optimizations)
+- [Table of Contents](#table-of-contents)
+  - [Body](#body)
+    - [Exercises](#exercises)
+    - [Stretching](#stretching)
+      - [Muscles](#muscles)
+      - [Functional Results](#functional-results)
+        - [Dynamic Stretching for Functional results](#dynamic-stretching-for-functional-results)
+        - [Static stretching for Functional results](#static-stretching-for-functional-results)
 
 ---
 
@@ -27,58 +29,15 @@ This is a list the **top 10 bodyweight exercises** for building explosive and ab
 | Header 1   | Header 2   | Header 3   |
 |------------|------------|------------|
 | 1. **Plyometric Push-Ups** – Develop explosive upper-body power | <img src="https://hips.hearstapps.com/hmg-prod/images/workouts/2017/04/clappushup-1491917647.gif" alt="Workout" width="300"> | _Source: [Men's Health](https://www.menshealth.com/fitness/a19546623/plyometric-core-workout/)_ |
-
-2. **Pistol Squats** – Build unilateral leg strength and stability.
-
-<img src="https://theprogrm.com/wp-content/uploads/tempo-pistol-squat.gif" alt="Workout" width="300">
-
-3. **Pull-Ups/Chin-Ups** – Strengthen upper-body pulling muscles and grip.
-
-<img src="" alt="Workout" width="300">
-
-_Source: []()_
-
-4. **Handstand Push-Ups** – Enhance shoulder and core strength.
-
-<img src="" alt="Workout" width="300">
-
-_Source: []()_
-
-5. **Broad Jumps** – Improve lower-body power and explosiveness.
-
-<img src="" alt="Workout" width="300">
-
-_Source: []()_
-
-6. **Muscle-Ups** – Combine pull and push strength explosively.
-
-<img src="" alt="Workout" width="300">
-
-_Source: []()_
-
-7. **Clapping Dips** – Train triceps explosiveness and pushing power.
-
-<img src="" alt="Workout" width="300">
-
-_Source: []()_
-
-8. **Dragon Flags** – Develop core strength and control.
-
-<img src="" alt="Workout" width="300">
-
-_Source: []()_
-
-9. **Single-Leg Romanian Deadlifts** – Build balance, stability, and hamstring strength.
-
-<img src="" alt="Workout" width="300">
-
-_Source: []()_
-
-10. **Burpee Broad Jumps** – Combine cardiovascular conditioning with explosive power.  
-
-<img src="" alt="Workout" width="300">
-
-_Source: []()_
+| 2. **Pistol Squats** – Build unilateral leg strength and stability | <img src="https://theprogrm.com/wp-content/uploads/tempo-pistol-squat.gif" alt="Workout" width="300"> | _Source: []()_ | 
+| 3. **Pull-Ups/Chin-Ups** – Strengthen upper-body pulling muscles and grip | <img src="" alt="Workout" width="300"> | _Source: []()_ |
+| 4. **Handstand Push-Ups** – Enhance shoulder and core strength | <img src="" alt="Workout" width="300"> | _Source: []()_ |
+| 5. **Broad Jumps** – Improve lower-body power and explosiveness | <img src="" alt="Workout" width="300"> | _Source: []()_ |
+| 6. **Muscle-Ups** – Combine pull and push strength explosively | <img src="" alt="Workout" width="300"> | _Source: []()_ |
+| 7. **Clapping Dips** – Train triceps explosiveness and pushing power | <img src="" alt="Workout" width="300"> | _Source: []()_ |
+| 8. **Dragon Flags** – Develop core strength and control | <img src="" alt="Workout" width="300"> | _Source: []()_ |
+| 9. **Single-Leg Romanian Deadlifts** – Build balance, stability, and hamstring strength | <img src="" alt="Workout" width="300"> | _Source: []()_ |
+| 10. **Burpee Broad Jumps** – Combine cardiovascular conditioning with explosive power.  | <img src="" alt="Workout" width="300"> | _Source: []()_ |
 
 This is a list of the best **bodyweight** exercise for each major muscle group:
 
